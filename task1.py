@@ -17,4 +17,4 @@ email = input("what is your email")
 name = name.strip()
 email = email.strip()
 
-print("your name is " + name +"," " and your email is " + email)
+print("Your name is " + name +"," " and your email is " + email)
